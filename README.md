@@ -28,6 +28,7 @@ Unit 20 - "Joint Savings Account"
   ![image6](Execution_Results/WD5AC1.png)
   
    *lastToWithdraw and lastWithdrawAmount functions:*
+   
    ![image7](Execution_Results/withdraw5ac1.png)
   
   
@@ -35,5 +36,6 @@ Unit 20 - "Joint Savings Account"
    ![image8](Execution_Results/WD10AC2.png)
    
    *lastToWithdraw and lastWithdrawAmount functions:*
+   
    ![image9](Execution_Results/withdraw10ac2.png)
 
