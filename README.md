@@ -1,5 +1,7 @@
 # Solidity
 Unit 20 - "Joint Savings Account"
+Using Remix to create a smart contract named joint_savings.sol
+The following images show its functionality.
 
 ---
 ## Successfully Deployed Smart Contract:
